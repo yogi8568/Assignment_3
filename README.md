@@ -87,14 +87,3 @@ Sine: 0.4121184852417566
    python task\ 2.py
    ```
 
----
-
-## 🧩 Author
-**Your Name**  
-📧 your.email@example.com  
-🌐 [Your GitHub Profile](https://github.com/your-username)
-
----
-
-## 🪪 License
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
